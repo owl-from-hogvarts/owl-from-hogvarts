@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/owl-from-hogvarts/csa-lab3" >
-    <img class="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owl-from-hogvarts&layout=donut"></img>
+    <img class="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owl-from-hogvarts&layout=donut&"></img>
   </a>
 </p>
 <p align="center">
